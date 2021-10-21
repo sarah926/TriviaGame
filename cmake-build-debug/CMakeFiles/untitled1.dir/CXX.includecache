@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sarahtoll/CLionProjects/untitled1/main.cpp
+stdio.h
+-
+ctype.h
+-
+time.h
+-
+stdlib.h
+-
+stdbool.h
+-
+string.h
+-
+
